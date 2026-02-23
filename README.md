@@ -5,11 +5,17 @@
 **Hackathon:** WES Hackathon 2025  
 **Team Members:** Alberto Kerim, Borna Krušlin, Niko Šikić, Matko Marjanac
 
+> 🏆 **2nd place & cash prize** at WES Hackathon 2025 — a 24-hour challenge to design and implement a car infotainment system from scratch on embedded hardware.
+
 ---
 
 ## 📌 Overview
 
 This project is a **Car Infotainment System** built for ESP32 using **ESP-IDF** and **FreeRTOS**. It integrates sensor readings, a GUI dashboard, and BT capabilities to simulate modern vehicle interfaces. Designed for embedded environments, it provides a scalable and responsive car infotainment experience.
+
+<p align="center">
+  <img src="images/gui-screenshot.jpeg" width="70%"/>
+</p>
 
 ---
 
