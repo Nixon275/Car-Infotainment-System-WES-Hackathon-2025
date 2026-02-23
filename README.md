@@ -13,9 +13,6 @@
 
 This project is a **Car Infotainment System** built for ESP32 using **ESP-IDF** and **FreeRTOS**. It integrates sensor readings, a GUI dashboard, and BT capabilities to simulate modern vehicle interfaces. Designed for embedded environments, it provides a scalable and responsive car infotainment experience.
 
-<p align="center">
-  <img src="images/gui-screenshot.jpeg" width="70%"/>
-</p>
 
 ---
 
@@ -95,24 +92,6 @@ idf.py -p COMX monitor
 
 ---
 
-## 🖼️ Screenshots
-
-> Add real hardware screenshots or system diagrams here.
-
-```
-📷 images/gui-screenshot.jpg
-📷 images/system-architecture1.png
-📷 images/system-architecture2.png
-📷 images/system-architecture3.png
-```
-
-```markdown
-![GUI](images/gui-screenshot.jpeg)
-![Night mode](images/system-architecture1.jpeg)
-![Radio](images/system-architecture2.jpeg)
-![Radar](images/system-architecture3.jpeg)
-```
-
 ---
 
 ## 🧪 Demo Use Case
@@ -132,6 +111,21 @@ idf.py -p COMX monitor
 | **Borna Krušlin** | GUI development (LVGL)      |
 | **Niko Šikić**    | Bluetooth system            |
 | **Matko Marjanac**| Main architecture, FreeRTOS |
+
+---
+
+## 🖼️ Gallery
+
+<p align="center">
+  <img src="images/system-architecture1.jpeg" width="30%" style="margin:4px"/>
+  <img src="images/system-architecture2.jpeg" width="30%" style="margin:4px"/>
+  <img src="images/system-architecture3.jpeg" width="30%" style="margin:4px"/>
+</p>
+<p align="center">
+  <em>Night mode</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Bluetooth Radio ON</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Distance Sensor</em>
+</p>
 
 ---
 
